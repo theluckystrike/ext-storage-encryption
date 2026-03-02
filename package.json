@@ -1,0 +1,10 @@
+{
+  "name": "ext-storage-encryption",
+  "version": "1.0.0",
+  "description": "Secure encrypted storage for Chrome extensions using AES-256-GCM",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": { "build": "tsc" },
+  "keywords": ["chrome-extension", "encryption", "storage", "security"],
+  "license": "MIT"
+}
